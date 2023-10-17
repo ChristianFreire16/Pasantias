@@ -1,0 +1,6 @@
+Cedula: 0954343208
+Nombres: Christian
+Apellidos: Freire
+Fecha de nacimiento: 2003-05-16
+Edad: 20
+Sexo: Masculino

@@ -1,0 +1,12 @@
+Cedula: 0964379823
+
+Nombres: Gustavo
+
+Apellidos: Samaniego
+
+Fecha de nacimiento: 2002-08-20
+
+Edad: 21
+
+Sexo: Masculino
+

@@ -1,0 +1,6 @@
+Cedula: 0967237109
+Nombres: Maria Emilia
+Apellidos: Vasconez Carvajal
+Fecha de nacimiento: 1999-06-29
+Edad: 24
+Sexo: Femenino

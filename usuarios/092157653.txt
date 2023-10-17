@@ -1,0 +1,6 @@
+Nombre: Galo
+Apellido: Plaza
+Fecha de Nacimiento: 1998-04-05
+Edad: 25
+Sexo: masculino
+Cedula: 092157653

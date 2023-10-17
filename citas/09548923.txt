@@ -1,0 +1,6 @@
+Cedula: 09548923
+Nombres: Fabiana
+Apellidos: Castro
+Fecha de nacimiento: 2005-05-31
+Edad: 18
+Sexo: Femenino
